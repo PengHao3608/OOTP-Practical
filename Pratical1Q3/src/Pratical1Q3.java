@@ -30,10 +30,10 @@ public class Pratical1Q3 {
       }
 
       if( (sum1+sum2)%10!=0 ){
-          System.out.print("Your number is not valid\n");
+          System.out.print("Your card is not valid\n");
       }
       else{
-          System.out.print("Your number is valid.Thank You\n");
+          System.out.print("Your card is valid.Thank You\n");
       }
            
                 
